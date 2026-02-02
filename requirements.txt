@@ -1,0 +1,6 @@
+gpt-researcher>=0.10.0
+duckduckgo-search
+openai
+asyncio
+beautifulsoup4
+markdown
